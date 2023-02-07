@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07fb22f9-8d08-4a70-a3a4-f394d9237f8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/workWithNrr/J_File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workWithNrr/J_MathMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/workWithNrr/J_StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workWithNrr/J_Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workWithNrr/J_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/workWithNrr/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.J_File">
+  <component name="RunManager" selected="Application.J_Comparable">
+    <configuration name="J_Comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.workWithNrr.J_Comparable" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.workWithNrr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="J_File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.workWithNrr.J_File" />
       <module name="Java" />
@@ -57,19 +70,6 @@
     </configuration>
     <configuration name="J_MathMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.workWithNrr.J_MathMethods" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.workWithNrr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="J_RegEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.workWithNrr.J_RegEx" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.J_File" />
-        <item itemvalue="Application.J_MathMethods" />
-        <item itemvalue="Application.J_StringMethods" />
-        <item itemvalue="Application.J_Threads" />
-        <item itemvalue="Application.J_RegEx" />
+        <item itemvalue="Application.J_Comparable" />
+        <item itemvalue="Application.com.workWithNrr.J_File" />
+        <item itemvalue="Application.com.workWithNrr.J_MathMethods" />
+        <item itemvalue="Application.com.workWithNrr.J_StringMethods" />
+        <item itemvalue="Application.com.workWithNrr.J_Threads" />
       </list>
     </recent_temporary>
   </component>
