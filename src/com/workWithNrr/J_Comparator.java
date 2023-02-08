@@ -6,7 +6,6 @@ import java.util.Comparator;
 import java.util.List;
 
 public class J_Comparator {
-
     public static void main(String[] args) {
         List<Student> students = new ArrayList<>();
         students.add(new Student(12, "Cat"));
