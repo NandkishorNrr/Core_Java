@@ -1,4 +1,4 @@
-package com.workWithNrr;
+package MixedProblems;
 
 import java.io.File;
 import java.io.FileWriter;

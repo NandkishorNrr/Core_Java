@@ -1,4 +1,4 @@
-package com.workWithNrr;
+package MixedProblems;
 
 public class Student {
     int marks;

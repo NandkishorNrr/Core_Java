@@ -1,4 +1,4 @@
-package com.workWithNrr;
+package MixedProblems;
 
 public class J_MathMethods {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.workWithNrr;
+package MixedProblems;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

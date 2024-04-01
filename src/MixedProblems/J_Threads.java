@@ -1,4 +1,4 @@
-package com.workWithNrr;
+package MixedProblems;
 
 //If the class extends the Thread
 

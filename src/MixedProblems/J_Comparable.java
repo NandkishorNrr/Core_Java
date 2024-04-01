@@ -1,4 +1,4 @@
-package com.workWithNrr;
+package MixedProblems;
 
 import java.util.ArrayList;
 import java.util.Collections;

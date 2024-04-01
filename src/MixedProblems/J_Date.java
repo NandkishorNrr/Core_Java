@@ -1,4 +1,4 @@
-package com.workWithNrr;
+package MixedProblems;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
