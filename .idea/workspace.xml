@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07fb22f9-8d08-4a70-a3a4-f394d9237f8b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/J_Comparator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_Comparator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_Comparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_Comparable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_Comparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_HashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_MathMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_MathMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_RegEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_RegEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_StringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_Threads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_Threads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/J_WrapperCls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/J_WrapperCls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/workWithNrr/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixedProblems/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,23 +51,10 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MatrixOpsAlgorithms">
+  <component name="RunManager" selected="Application.NumberOpsAlgorithms">
     <configuration name="ArrayOpsAlgorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayOpsAlgorithms" />
       <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="J_Comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.workWithNrr.J_Comparable" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.workWithNrr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,13 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberOpsAlgorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOpsAlgorithms" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOpsAlgorithms" />
         <item itemvalue="Application.MatrixOpsAlgorithms" />
         <item itemvalue="Application.ArrayOpsAlgorithms" />
         <item itemvalue="Application.J_HashSet" />
         <item itemvalue="Application.MixedProblems.J_Comparable" />
-        <item itemvalue="Application.J_Comparable" />
       </list>
     </recent_temporary>
   </component>
